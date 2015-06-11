@@ -13,3 +13,7 @@ It's only a preview version for my study.
 Main Entry class is FFFScrPlayer under 
 * FastFireFrameDesktopTest  
 * FastFireFrameAndroidTest  
+
+## NOTICE:  
+This project is moved to   
+https://github.com/weimingtom/marika_java  
